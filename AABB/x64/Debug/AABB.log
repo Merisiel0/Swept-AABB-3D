@@ -1,0 +1,9 @@
+﻿  saabb_3d.h
+C:\Users\Merisiel\Desktop\AABB\AABB\saabb_3d.h(27,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Merisiel\Desktop\AABB\AABB\saabb_3d.h(129,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Merisiel\Desktop\AABB\AABB\saabb_3d.h(134,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Merisiel\Desktop\AABB\AABB\saabb_3d.h(141,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Merisiel\Desktop\AABB\AABB\saabb_3d.h(146,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  AABB.vcxproj -> C:\Users\Merisiel\Desktop\AABB\x64\Debug\AABB.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
